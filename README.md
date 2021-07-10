@@ -28,3 +28,6 @@ contain the machine learning pipeline , trainning model , scoring and save resul
 
 command line : python train_classifier.py ../data/DisasterResponse.db classifier.pkl
 
+# 3- App
+
+contain 
