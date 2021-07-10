@@ -19,8 +19,12 @@ This project will involve the building of a basic ETL and Machine Learning pipel
 
 # Project Files
 # 1- /Data
-content preparation processing for data and storet atDB table.
+contain preparation processing for data and storet atDB table.
 
 command line : python process_data.py disaster_messages.csv disaster_categories.csv DisasterResponse.db
 
 # 2- /Models
+contain the machine learning pipeline , trainning model , scoring and save result as pickle file
+
+command line : python train_classifier.py ../data/DisasterResponse.db classifier.pkl
+
