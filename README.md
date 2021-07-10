@@ -6,8 +6,14 @@ This project will involve the building of a basic ETL and Machine Learning pipel
 
 # Libraries
 1-pandas
+
 2-numpy
+
 3-sqlalchemy
+
 4-re
+
 5-nltk
+
 6-sklearn
+
