@@ -2,7 +2,8 @@
 # Project Motivation
 This project (Disaster Response Pipelines) is part of Udacity Data Scientists Nanodegree Program.
 In this project, we will build a model to classify messages that are sent during disasters. There are 36 pre-defined categories, and examples of these categories include (related	request,	offer,	aid_related	,medical_help	,medical_products etc...).
-This project will involve the building of a basic ETL and Machine Learning pipeline to facilitate the task and finally web app to represent results. 
+This project will involve the building of a basic ETL and Machine Learning pipeline to facilitate the task . 
+Finally, this project contains a web app where you can input a message , get classification results , help in decisions making and help civilians to understand what happend in disaster.
 
 # Libraries
 1-pandas
