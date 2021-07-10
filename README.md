@@ -44,4 +44,5 @@ Web link: https://view6914b2f4-3001.udacity-student-workspaces.com/
     # ML Pipeline Preparation
     https://github.com/Nahla-shaban-salem/Disaster-Response-Pipelines/blob/main/ML%20Pipeline%20Preparation%20.ipynb
     
-    
+# Acknowledgments
+Must give credit to udacity for all the valuable knowledge I gain it through project .
