@@ -30,4 +30,8 @@ command line : python train_classifier.py ../data/DisasterResponse.db classifier
 
 # 3- App
 
-contain 
+contain internet Web app for result and 3 visualizations for result .
+
+command line : python run.py
+
+env|grep WORK
