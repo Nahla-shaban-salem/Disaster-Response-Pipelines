@@ -17,3 +17,10 @@ This project will involve the building of a basic ETL and Machine Learning pipel
 
 6-sklearn
 
+# Project Files
+# 1- /Data
+content preparation processing for data and storet atDB table.
+
+command line : python process_data.py disaster_messages.csv disaster_categories.csv DisasterResponse.db
+
+# 2- /Models
